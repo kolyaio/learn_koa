@@ -1,0 +1,32 @@
+{
+  "name": "learn_koa",
+  "version": "0.0.1",
+  "description": "Getting Familiar with the brand new Koa.js. ",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kolyaio/learn_koa.git"
+  },
+  "keywords": [
+    "Koa.js",
+    "Koa",
+    "Back",
+    "end",
+    "Framework",
+    "Node.js",
+    "JavaScript"
+  ],
+  "author": "Nikolai Ilushko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kolyaio/learn_koa/issues"
+  },
+  "homepage": "https://github.com/kolyaio/learn_koa#readme"
+}
